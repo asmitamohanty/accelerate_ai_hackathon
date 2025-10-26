@@ -35,7 +35,7 @@ fivetran deploy
 
 #### RAG Work Flow
 ```
-cd main
+cd disaster_hub/main
 ```
 - Refer `disasterhub.ipynb` for more details & visualization
 - Setup your GCP credentials required for Bigquery, Google Cloud Storage Bucket & Vertex Vector Search 
