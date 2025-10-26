@@ -1,5 +1,0 @@
-{
-  "api_url": "https://api.reliefweb.int/v2/disasters",
-  "app_name": "disaster_rag_test",
-  "limit": "50"
-}
