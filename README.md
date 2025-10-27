@@ -2,7 +2,7 @@
 An AI-powered disaster intelligence hub that leverages Fivetran Connector SDK, BigQuery, and Vertex AI's Vector Search & Gemini API to make global disaster data more accessible and actionable.
 This project is originally inspired by the [Fivetran x Google Cloud Hackathon](https://ai-accelerate.devpost.com/). While not an official submission, it was developed independently to showcase how automated data pipelines and retrieval-augmented generation (RAG) with AI-assistant can transform raw disaster data into meaningful insights and visual analytics to support better decision-making.
 
-Check **[DEMO]**(https://www.dropbox.com/scl/fi/8oj5h19q6btuthdenpt9c/video3616112834.mp4?rlkey=wgqsbl8ajmqvvm3eqrvz0bup7&st=v7u2u0do&dl=0) for a quick glance at the App!
+Check [**DEMO**](https://www.dropbox.com/scl/fi/8oj5h19q6btuthdenpt9c/video3616112834.mp4?rlkey=wgqsbl8ajmqvvm3eqrvz0bup7&st=v7u2u0do&dl=0) for a quick glance at the App!
 
 ## Project Overview
 This project connects open disaster data from ReliefWeb API using the **Fivetran Connector SDK**, stores it in **BigQuery**, and powers a **Vertex AI–enabled RAG** workflow to generate insights and summaries for climate and disaster management.
