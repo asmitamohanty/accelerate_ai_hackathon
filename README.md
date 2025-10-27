@@ -1,5 +1,5 @@
-# DISH: Disaster Intelligence Hub
-DISH is an AI-powered disaster intelligence hub that leverages Fivetran Connector SDK, BigQuery, and Vertex AI's Vector Search & Gemini API to make global disaster data more accessible and actionable.
+# Disaster Insights Dashboard
+An AI-powered disaster intelligence hub that leverages Fivetran Connector SDK, BigQuery, and Vertex AI's Vector Search & Gemini API to make global disaster data more accessible and actionable.
 This project is originally inspired by the [Fivetran x Google Cloud Hackathon](https://ai-accelerate.devpost.com/). While not an official submission, it was developed independently to showcase how automated data pipelines and retrieval-augmented generation (RAG) with AI-assistant can transform raw disaster data into meaningful insights and visual analytics to support better decision-making.
 
 ### [DEMO](https://www.dropbox.com/scl/fi/8oj5h19q6btuthdenpt9c/video3616112834.mp4?rlkey=wgqsbl8ajmqvvm3eqrvz0bup7&st=v7u2u0do&dl=0)
